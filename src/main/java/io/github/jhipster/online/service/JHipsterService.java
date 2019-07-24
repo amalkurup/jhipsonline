@@ -150,4 +150,3 @@ public class JHipsterService {
             "--force-insight --skip-checks --skip-install --force ");
     }
 }
-}
